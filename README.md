@@ -1,2 +1,2 @@
 # render-condicional-react-scrimba-2-render
-Created with CodeSandbox
+![captura](https://i.imgur.com/wAriStw.png)
